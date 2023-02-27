@@ -11,6 +11,7 @@ In this project you can see detailed diagrams about **Transformer Architecture**
 *Implemented with TensorFlow*.
 
 
+
 ## Creating U-Net Architecture from scratch. [Click here for view the file](https://github.com/Aliiysa/Portfolio/blob/main/U_Net.ipynb)
 
 ![U-Net Architecture](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
@@ -23,11 +24,14 @@ In this project you can see detailed information about **Downsampling**, **Upsam
 *Implemented with TensorFlow*.
 
 
+
 ## Finding Donors for CharityML [Click here for view the file](https://github.com/Aliiysa/Portfolio/blob/main/charity_ml.ipynb)
 
 In this project, I utilized several Machine learning algorithms to accurately create a model that can predict an individual's income based on data collected from the 1994 US Census. After obtaining the preliminary results, I selected the best candidate model and further optimized it to obtain the most accurate model possible. The purpose of this implementation is to predict whether an individual earns more or less than 50K. This sort of task is often found in non-profit settings, where the organization relies on donations to survive. Having this prediction would help the non-profit organization to determine the amount of money to request or if they should reach out at all.
 
 *Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn* required.
+
+
 
 ## Telco Customer Churn Prediction [Click here for view the file](https://github.com/Aliiysa/Portfolio/blob/main/telco_customer_churn.ipynb)
 
