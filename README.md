@@ -13,6 +13,8 @@ In this project you can see detailed diagrams about **Transformer Architecture**
 
 ## Creating U-Net Architecture from scratch. [Click here for view the file](https://github.com/Aliiysa/Portfolio/blob/main/U_Net.ipynb)
 
+![U-Net Architecture](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
+
 If you ever used Stable Diffusion for image genereation then you already have contacted with **U-Net Architecture**
 
 The U-Net architecture is a popular and effective deep learning architecture for image generation, specifically for image segmentation tasks. The U-Net architecture is composed of an **Encoder** and **Decoder** network that are connected by a bottleneck layer. The encoder network is a series of convolutional layers that gradually downsample the input image, which helps capture and abstract the high-level features of the image. The decoder network is a series of upsampling layers that reconstructs the original size of the image, while also refining the segmentation mask. The bottleneck layer in the middle serves as a bridge between the encoder and decoder networks, and enables the model to effectively capture both local and global features of the image. Additionally, skip connections between the encoder and decoder networks help to preserve the fine details of the image during the downsampling and upsampling process, improving the accuracy of the segmentation mask.
