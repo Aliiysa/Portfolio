@@ -3,7 +3,7 @@
 
 ## Creating Transformer Architecture from scratch. [Click here for view the file](https://github.com/Aliiysa/Portfolio/blob/main/Transformer_Network.ipynb)
 
-![Transformer Architecture](https://github.com/Aliiysa/Portfolio/blob/main/images_transformers/transformer.png)
+![Transformer Architecture]([https://github.com/Aliiysa/Portfolio/blob/main/images_transformers/transformer.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The-Transformer-model-architecture.png/800px-The-Transformer-model-architecture.png))
 
 while Language Models became hot topic in 2020s it is important to know details about them. The Transformer architecture is a crucial and powerful building block in the field of natural language processing (NLP) and deep learning. It is the foundation for many of the state-of-the-art language models used today, including BERT, GPT-3, and T5. The Transformer architecture enables these models to effectively model and understand the complex relationships between words and phrases in natural language, and has revolutionized the field of NLP. By understanding the Transformer architecture, practitioners and researchers can better design, build, and optimize language models. In addition, the Transformer architecture is also being used in other fields, such as computer vision, and has the potential to impact a wide range of industries in the future.
 
